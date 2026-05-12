@@ -1,11 +1,8 @@
-"""
-Programme Snake version 5
 
-"""
 from tkinter import * # Importation de la bibliothèque  Tkinter 
 from tkinter import font as tkfont
 from random import randint
-
+# installer matploplib
 from PIL import Image, ImageTk 
 # On crée un environnement Tkinter
 tk = Tk()
